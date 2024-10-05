@@ -1,0 +1,15 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+
+.background {
+  height: 100vh;               
+  background-size: cover;      
+  background-position: center; 
+  transition: 1s ease-in-out; 
+  overflow: hidden;           
+}
+
+
